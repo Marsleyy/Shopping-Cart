@@ -1,0 +1,61 @@
+.Title{
+    display: flex;
+    justify-content: space-around;
+    background:#04AB9E;
+    color: White;
+    
+}
+
+.Toprow {
+    display: flex;
+    justify-content: space-between;
+    border: 5px #05D8C8;
+    color: White;
+    padding: 15px;
+    background:#05D8C8;
+}
+
+.Input{
+    display: flex;
+    justify-content: space-around;
+    color: #00554F  ;
+    padding: 20px;
+    background:#D6FFFC;
+}
+
+.Total{
+    display: flex;
+    justify-content: flex-end;   
+    background:#04AB9E;
+    padding: 20px;
+    color: White;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;  
+    background:#05D8C8;
+    padding: 15px;
+}
+.items{
+    display:flex;
+    justify-content: space-around;
+}
+p{
+    font-size: 15px;
+}
+button{
+    background:#04AB9E;
+    color: white;
+    width: 125px;
+    height: 25px;
+    border: solid white;
+    border-radius: 7px;
+}
+input{
+    width: 125px;
+    height: 25px;
+    border: solid #04AB9E;
+    border-radius: 10px;
+    
+}
